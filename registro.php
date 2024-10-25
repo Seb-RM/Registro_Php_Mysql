@@ -9,7 +9,7 @@
 <body>
     <div class="principal">
         <div class="formulario">
-            <form action="" method="post">
+            <form action="guardado.php" method="post">
                 <div class="titulo">
                     <h1>Regístrate</h1>
                 </div>
