@@ -1,8 +1,13 @@
+/**
+Utilizamos la etiqueta "*" para quitar margenes y margenes interno.
+**/
 *{
     margin: 0px;
     padding: 0px;
 }
-
+/*
+Implementamos los estilos de los contenedores en el formulario.
+*/
 .principal {
     width: 35%;
     margin: 0 auto;

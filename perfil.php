@@ -7,6 +7,9 @@
     <title>Perfil</title>
 </head>
 <body>
+<!-- 
+    Página creada para dar una vista al usuario después de ser registrado
+-->
     <h1>Bienvenido a tu Perfil</h1>
 </body>
 </html>
